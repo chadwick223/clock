@@ -1,2 +1,2 @@
 # clock
-clock that shows ist 
+clock that shows indian standard time
